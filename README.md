@@ -3,4 +3,6 @@
 - 项目涉及代码地址 https://github.com/dushuaitong/blog_code
     
 ### 关注微信公众号阅读效果更佳
+
+![微信公众号图片](https://github.com/dushuaitong/blog/blob/main/img/qrcode.jpg)
  
