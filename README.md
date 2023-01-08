@@ -5,5 +5,5 @@
     
 ### 关注微信公众号获得更好的阅读体验
 
-![微信公众号图片](https://github.com/dushuaitong/blog/blob/main/img/qrcode.jpg)
+![微信公众号图片]([https://github.com/dushuaitong/blog/blob/main/img/qrcode.jpg](https://mmbiz.qpic.cn/mmbiz_jpg/EicY04iaFsSekkic906EHibfqJMsAYibOXXQF5HjskU8OZryu8npLTGPgplQqIKtcOdT6twKsfZyMQ9yCFUfxFdXx7g/0?wx_fmt=jpeg))
  
