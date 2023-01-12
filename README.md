@@ -1,5 +1,5 @@
 # Start a new plan
-自己总计的一些计算机方面的知识点，方便今后复习查阅，不太适合零基础小白
+自己总计的一些计算机方面的知识点, 不太适合零基础小白
     
 - 项目涉及代码地址 https://github.com/dushuaitong/blog_code
 ### 任务表
